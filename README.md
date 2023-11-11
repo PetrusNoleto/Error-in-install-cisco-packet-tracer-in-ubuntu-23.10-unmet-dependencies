@@ -8,7 +8,7 @@
 ```
 
 ### Step 1 Download dependecies archives
-  <a href= "https://github.com/PetrusNoleto/error-in-install-cisco-packet-tracer-in-ubuntu-23.10---guide-instalation/releases/tag/CiscoPacketTracerFixUnmetDependenciesUbuntu23.10" target="_blank">dependecies</a>
+  click [here](https://github.com/PetrusNoleto/error-in-install-cisco-packet-tracer-in-ubuntu-23.10---guide-instalation/releases/tag/CiscoPacketTracerFixUnmetDependenciesUbuntu23.10) for download dependecies
 
 
 ### Step 1 install gdebi
