@@ -21,7 +21,7 @@
   
   in terminal
   ```
-  cd /home/youuser/Downloads
+  cd /home/yourUser/Downloads
   ```
   install dependencies
   ```
