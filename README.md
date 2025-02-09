@@ -1,4 +1,4 @@
-##### If Cisco Packet Tracer installation on Ubuntu 23.10 gives you this error
+##### If Cisco Packet Tracer installation on Ubuntu 23.10 and 24.04 gives you this error
 
 ```
     This package is uninstallable
